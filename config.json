@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "TEST",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "hognebentzen.com",
+  "name": "Hogne William Bentzen",
+  "ascii": "ABOUT ME",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/HogneB",
+    "linkedin": "https://www.linkedin.com/in/hogne-william-bentzen/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "hogne@duck.com",
+  "ps1_hostname": "root",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "",
+  "resume_url": "",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
   "colors": {
     "light": {
